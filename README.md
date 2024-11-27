@@ -79,7 +79,6 @@ I'm a GIS Specialist passionate about **route optimization**, **territory creati
 ---
 
 ## 📫 **Contact Me**
-- **Portfolio Website**: [yourwebsite.com](https://yourwebsite.com)  
 - **LinkedIn**: [Veeraraghavan](https://www.linkedin.com/in/veera-raghavan-2028/)  
 - **Email**: [post2veera@gmail.com](mailto:post2veera@gmail.com)  
 
