@@ -18,7 +18,7 @@ I'm a GIS Specialist passionate about **route optimization**, **territory creati
 - **SaaS Tools**: Territory Manager, TourSolver  
 
 ### **Programming & Databases**    
-- **Databases**: PostgreSQL/PostGIS, SQLite  
+- **Databases**: PostgreSQL/PostGIS
 
 ---
 
