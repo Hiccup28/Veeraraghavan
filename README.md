@@ -1,5 +1,3 @@
-Your GitHub portfolio content looks well-structured and professional! Here's a slightly enhanced version with formatting improvements, additional sections, and interactive elements to make it even more appealing:
-
 ---
 
 # **Veeraraghavan**  
