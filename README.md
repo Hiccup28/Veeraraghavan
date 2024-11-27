@@ -13,7 +13,10 @@ I love working on open-source projects, and learning new things.
 
 ## 🌟 Projects
 Here are some of my favorite projects:
-1. 
+ 1.Spatial Data creation and maintanence:
+– Created and maintained spatial database containing the state, district, subdistrict, Villages and Towns boundaries for
+entire India, Integrated with demographic data from census of India
+– Created precise and accurate Pincode boundary dataset using point of interest dataset available from open forum.
 
 ## 📫 Contact Me
 - [Portfolio Website](https://yourwebsite.com)
