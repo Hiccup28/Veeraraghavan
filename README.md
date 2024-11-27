@@ -1,5 +1,3 @@
----
-
 # **Veeraraghavan**  
 **GIS Specialist | Spatial Data Analyst | GIS Engineer**  
 
