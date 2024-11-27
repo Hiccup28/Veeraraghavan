@@ -31,7 +31,7 @@ I'm a GIS Specialist passionate about **route optimization**, **territory creati
 
 ---
 
-### 2. **Geomarketing Solution for CavinKare (India)**  
+### 2. **Geomarketing Solution**  
 - **Project**: Developed geomarketing software to enhance sales performance across various outlets and regions.  
 - **Key Features**:  
   - Distribution network mapping  
@@ -41,25 +41,25 @@ I'm a GIS Specialist passionate about **route optimization**, **territory creati
 
 ---
 
-### 3. **Demographic Profiling for BCG India**  
+### 3. **Demographic Profiling**  
 - **Objective**: Performed demographic data profiling for village and town locations based on *Census 2011*.  
 - **Outcome**: Provided actionable insights for business planning and strategy.  
 
 ---
 
-### 4. **Territory Management for Petronas India**  
+### 4. **Territory Management**  
 - **Project**: Implemented a territory management and route optimization system for field force operations.  
 - **Result**: Improved operational efficiency and resource allocation.  
 
 ---
 
-### 5. **Cluster Analysis for Smart Power India**  
+### 5. **Cluster Analysis**  
 - **Objective**: Conducted demographic profiling and cluster analysis of village locations to aid in power distribution planning.  
 - **Outcome**: Identified optimal village clusters for sustainable power distribution.  
 
 ---
 
-### 6. **Retail Expansion Study for Varun Beverages**  
+### 6. **Retail Expansion Study**  
 - **Project**: Conducted a retail expansion study to optimize sales channels.  
 - **Key Tasks**:  
   - Demographic analysis  
@@ -68,18 +68,13 @@ I'm a GIS Specialist passionate about **route optimization**, **territory creati
 
 ---
 
-### 7. **Location Analysis for Walmart India**  
+### 7. **Location Analysis**  
 - **Objective**: Performed a comprehensive location analysis and site selection for warehouse placements.  
 - **Key Deliverables**:  
   - Suitability mapping based on proximity to customers, transportation networks, and land costs  
   - Optimized site selection to minimize logistics costs and improve delivery efficiency  
 
 ---
-
-## 📈 **Achievements**  
-- Reduced distribution costs by 15% for Petronas India through optimized territory management.  
-- Increased sales by 12% for CavinKare by implementing a geomarketing solution and optimizing sales territories.  
-- Identified strategic warehouse locations for Walmart India, improving delivery times by 20%.
 
 ---
 
