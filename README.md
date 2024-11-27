@@ -58,6 +58,6 @@ I love working on open-source projects, and learning new things.
         Optimized site selection to minimize logistics costs and improve delivery efficiency.
 ## 📫 Contact Me
 - [Portfolio Website](https://yourwebsite.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn]((https://www.linkedin.com/in/veera-raghavan-2028/))
+- [Email](mailto:post2veera@gmail.com)
 
